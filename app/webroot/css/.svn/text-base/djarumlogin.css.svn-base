@@ -1,0 +1,102 @@
+/*
+Theme Name: DJARUM SUPER LOGIN
+Version: 1.0
+Author: ACIT JAZZ - 2012
+*/
+#login{
+	background: #f9fcf7; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y5ZmNmNyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmNWY5ZjAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #f9fcf7 0%, #f5f9f0 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9fcf7), color-stop(100%,#f5f9f0)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #f9fcf7 0%,#f5f9f0 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #f9fcf7 0%,#f5f9f0 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #f9fcf7 0%,#f5f9f0 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #f9fcf7 0%,#f5f9f0 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fcf7', endColorstr='#f5f9f0',GradientType=0 );
+	border:solid 1px #ccc;
+	border-radius:8px;
+	box-shadow:0 0 8px #d7d7d7;
+	width:320px;
+	height:290px;
+	margin:0 auto;
+	position:relative;
+	top:100px;
+	overflow:hidden;
+}
+#login .row{
+	overflow:hidden;
+	clear:both;
+	padding:15px 20px;
+}
+#login .row label{
+	font-size:12px;
+}
+#login .row input[type=text],
+#login .row input[type=password]{
+	font-family: 'Pontano Sans',Arial, Helvetica, sans-serif;
+	font-size:16px;
+	padding:3px 10px;
+	height:25px;
+	border:solid 1px #ccc;
+	border-radius:5px;
+	width:258px;
+	line-height:25px;
+	color:#000;
+}
+#login .row input[type=text]:focus,
+#login .row input[type=password]:focus{
+	background:#fffde0;
+	box-shadow:0 2px 2px #d8d6b4 inset;
+}
+#login .rowsubmit input[type=submit]{
+	background: #a90329; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2E5MDMyOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjQ0JSIgc3RvcC1jb2xvcj0iIzhmMDIyMiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM2ZDAwMTkiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 );
+	font-family: 'Pontano Sans',Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding:3px 10px;
+	height:32px;
+	border:none;
+	position:absolute;
+	right:20px;
+	border-radius:35px;
+	width:80px;
+	color:#fff;
+	text-align:center;
+	text-transform:uppercase;
+	text-shadow:0 1px 1px #e00033;
+	cursor:pointer;
+}
+#login .rowsubmit input[type=submit]:hover{
+	background:#950025;
+}
+#login .rowsubmit{
+	border-top: 1px solid #CCCCCC;
+	margin: 10px 0 0;
+    padding: 10px 0 0;
+	background:#f3f3f3;
+	height:50px;
+}
+#login h3{
+	border-bottom: 1px solid #CCCCCC;
+    font-size: 20px;
+    padding: 20px 0 10px 20px;
+    text-transform: uppercase;
+	text-shadow:0 1px 1px #fff;
+}
+.loginError{
+	text-transform:uppercase;
+	background:#990026;
+    color: #FFFFFF;
+    margin: 30px 0;
+    padding: 30px;
+    text-align: center;
+}

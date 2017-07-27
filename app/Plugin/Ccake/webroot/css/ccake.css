@@ -1,0 +1,17 @@
+.menudnd {
+    border: 1px solid #c2c2c2;
+    margin: 0 0 5px;
+    padding: 10px;
+    background-color: #ebebeb;
+    height:32px;
+}
+.fr{
+	float:right;
+}
+.fl{
+	float:left;
+}
+.menudnd .options{
+	margin-top:-4px;
+}
+.sortable { list-style-type: none; margin: 0; padding: 0;}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/djarum-super/!svn/ver/251/trunk/web/app/View/Subscribe
+END
+save.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/djarum-super/!svn/ver/249/trunk/web/app/View/Subscribe/save.ctp
+END
+admin_email.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/djarum-super/!svn/ver/251/trunk/web/app/View/Subscribe/admin_email.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/djarum-super/!svn/ver/251/trunk/web/app/View/Subscribe/admin_index.ctp
+END
+admin_remove.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/djarum-super/!svn/ver/251/trunk/web/app/View/Subscribe/admin_remove.ctp
+END
+admin_new_email.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/djarum-super/!svn/ver/251/trunk/web/app/View/Subscribe/admin_new_email.ctp
+END
+admin_view_email.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/djarum-super/!svn/ver/251/trunk/web/app/View/Subscribe/admin_view_email.ctp
+END

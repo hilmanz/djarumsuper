@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements
+END
+adm_layouts_sidebar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/adm_layouts_sidebar.ctp
+END
+widget_banners.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/widget_banners.ctp
+END
+widget_posts_recent.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/widget_posts_recent.ctp
+END
+widget_posts_related.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/widget_posts_related.ctp
+END
+adm_menu_sidebar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/adm_menu_sidebar.ctp
+END
+adm_banners_sidebar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/adm_banners_sidebar.ctp
+END
+adm_posts_sidebar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/adm_posts_sidebar.ctp
+END
+widget_zone_banners.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Elements/widget_zone_banners.ctp
+END

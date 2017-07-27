@@ -1,0 +1,70 @@
+/**
+CcakeGallery.css
+**/
+
+.gallery-header{
+	background-color:#34495E;
+	padding: 0px 0px 0px 10px;
+	color:white;
+}
+.gl-content{
+	background-color:#ECF0F1;
+	padding: 10px 0 10px 14px;
+
+}
+.gallery-panels{
+	background-color: #FFFFFF;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.gallery-panels .thumb img{
+	height:125px;
+}
+.btn-create{
+	margin:5px 10px 0px 0px;
+}
+.gl-form{
+	padding:10px;
+}
+.search{
+	margin:10px 0px 0px -31px;
+}
+.center{
+	text-align: center;
+}
+.caption{
+	margin:10px 0 0 0;
+}
+.img-msg{
+	margin:10px 0 0 0;
+}
+.nophoto {
+    border: 1px solid #EEEEEE;
+    height: 118px;
+    width: 135px;
+    background-color: #34495E;
+}
+.img{
+	border: 1px solid #EEEEEE;
+}
+.opsi{
+	float:right;
+	margin:-10px 0px 0px 0px;
+}
+.btn-edit-caption{
+	float:right;
+	margin:0 10px 0 10px;
+}
+.btn-delete-pic{
+	float:right;
+}
+.btn-save{
+	margin:0px 0px 0px 5px;
+}
+.gallery-desc{
+	background-color: #BDC3C7;
+   	margin:0px;
+    padding: 10px;
+}

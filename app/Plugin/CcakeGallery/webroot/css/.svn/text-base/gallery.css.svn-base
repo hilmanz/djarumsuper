@@ -1,0 +1,11 @@
+.gallery-list{
+	background-color:#ECF0F1;
+}
+.gallery-list .pic{
+	float:left;
+	padding:10px;
+	background-color:#fff;
+}
+.gallery-list .pic img{
+	height:150px;
+}

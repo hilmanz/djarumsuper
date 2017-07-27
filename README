@@ -1,0 +1,61 @@
+TODO
+-----------
+Cit, Duf,
+
+ini final revision dari DS kemaren, untuk yg layout bisa dkerjain lgsg ya cit.
+
+Nonk,
+tlg bantu pantau ya, gw present balik ke mereka hari selasa tgl 3, minggu depan (termasuk additional yang udah dibahas kemaren di trip advisor)
+
+thx
+
+
+
+
+
+Begin forwarded message:
+
+Ada beberapa yang masih perlu diperbaiki dan ditambahkan:
+HOMEPAGE
+1.       HOMEPAGE                                        : Menu masih belum sesuai dengan desain yg  terakhir diberikan, seharusnya: Home | SuperAdventure | Destinasi | SuperMusic | Galeri | Aktifitas | The Brand
+ OK 
+2.       HOMEPAGE > Panel Destinasi    : Seharusnya menunjukkan RATING dan foto tempat sebagai background. Saat ini masih menunjukkan maps 
+OK, maksud background seperti apa ya? 
+3.       HOMEPAGE > SuperAdventure : Highlight 4 News Terbaru ttg adventure, saat ini masih cuma 1 news. Kasih Lorem Ipsum dengan foto adventure ambil dari Google juga tidak apa-apa
+OK akan ditambah template -nya, tapi untuk content lain-nya silakan input dari CMS
+4.       HOMEPAGE > SuperMusic           : Highlight 4 News Terbaru ttg musik, saat ini masih cuma 1 news. Kasih Lorem Ipsum dengan foto band atau konser ambil dari Google juga tidak apa-apa
+OK akan ditambah template -nya, tapi untuk content lain-nya silakan input dari CMS
+5.       HOMEPAGE > Aktifitas                  : Highlight 2 News Terbaru ttg aktifitas Brand. Kasih Lorem Ipsum dengan foto booth Djarum Super atau brand ambil dari Google juga tidak apa-apa
+OK akan ditambah template -nya, tapi untuk content lain-nya silakan input dari CMS 
+6.       HOMEPAGE > Recent Post           : Menampilkan Facebook Page Djarum Super, saat ini masih tampilkan facebook page SuperSoccer.
+OK 
+7.       HOMEPAGE > Galeri                       : Harus didiferensiasikan antara Photo dan Video, bisa dicek dari desain yang sebelumnya dikasih (saya lampirkan kembali ya mas)
+OK, tapi video requirement baru
+ 
+GENERAL DESIGN
+1.       Dropdown Menu                             : Dibuat Jajaran Genjang saja, jangan kotak terus kalau mouse over jadi jajaran genjang. Lalu warna ketika mouse over dibuat jadi merah Djarum Super.
+OK 
+2.       Sidebar                                                 : Secara berurut dari atas ke bawah > Widget “Destinations” (seperti di homepage, menampilkan rating), Widget Recent News SuperAdventure (tampilkan 3 recent news about Adventure), Banner Ads 300x250, Widget Recent News SuperMusic (tampilkan 3 rec ent News about Music), Widget Gallery (Photo & Video, didiferensiasikan melalui tab Photo dan tab Video), Subscription/NewsLetter.
+OK 
+3.       Images on Articles                           : Dibuat Wrap around Text, dan dikasih caption. Clickable sehingga bisa pop up lightbox
+OK, dan tambah satu fungsi pop-up. 
+4.       Main Banners on Articles              : Dibuat lebih besar atau line divider antara banner dengan artikel dinaikin saja.
+OK 
+5.       Related News                                    : Setiap post page artikel, wajib ada related articles.
+OK, ini nanti diambil dari category yang sama saja. Dan akan hanya 2 articles saja. 
+6.       Related Gallery                                 : Setiap post page artikel, wajib ada related gallery (photo dan video) dibawah related articles.
+OK, ini nanti diambil dari category yang sama saja. Dan akan hanya ada 2 gallery (photo 1 dan video 1) 
+ 
+AKTIFITAS
+1.       Page Aktifitas berisikan artikel mengenai aktifitas brand di event, seperti buka booth atau apapun.
+Ini tinggal input di CMS aja artikel-nya yang sesuai. 
+ 
+THE BRAND
+1.       Page ini berisikan tentang berita brand, seperti menerima penghargaan, pencapaian tentang sesuatu, pembuatan Letter Sign, pembuatan TVC atau apapun.
+Ini tinggal input di CMS aja artikel-nya yang sesuai. Untuk video akan embed dari Youtube.  
+ 
+GALLERY
+1.       Dibuatkan submenu Photo dan submenu Video.
+OK
+2.       Ketika klik Gallery, tampil 1 panel besar berisikan kumpulan photo dan video yang terdiferensiasikan melalui tab Photos dan tab Videos.
+OK

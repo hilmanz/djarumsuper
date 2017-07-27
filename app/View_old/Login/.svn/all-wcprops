@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Login
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Login/admin_index.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Login/index.ctp
+END
+login.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Login/login.ctp
+END
+logout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Login/logout.ctp
+END

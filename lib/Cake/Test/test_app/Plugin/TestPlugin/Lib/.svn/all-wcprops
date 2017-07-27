@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/test_app/Plugin/TestPlugin/Lib
+END
+TestPluginLibrary.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/test_app/Plugin/TestPlugin/Lib/TestPluginLibrary.php
+END
+TestPluginOtherLibrary.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/test_app/Plugin/TestPlugin/Lib/TestPluginOtherLibrary.php
+END

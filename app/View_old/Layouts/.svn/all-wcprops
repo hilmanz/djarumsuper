@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/flash.ctp
+END
+ecard.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/ecard.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/default.ctp
+END
+trip_advisor.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/trip_advisor.ctp
+END
+admin.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/admin.ctp
+END
+default_original.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Layouts/default_original.ctp
+END

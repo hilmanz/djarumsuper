@@ -1,0 +1,129 @@
+.assetthumb{
+	float:left;
+	border: 1px solid #ccc;
+	background-color:#333;
+	color:white;
+	width:120px;
+	height:120px;
+	margin:5px;
+	z-index: 2;
+}
+.assetthumb img{
+	max-width:100%;
+	max-height:100%;
+}
+.workspace{
+	float:left;width:700px;margin:5px;
+}
+.workspace div.dropzone{
+	border:solid 1px #333;
+	background-color: #F5F5F5;
+	width:700px;
+	height:100px;
+}
+.segment{
+	width:85px;
+	height:85px;
+	margin:5px;
+	background-color: white;
+	border: solid 1px #333;
+	float:left;
+}
+.segment .bg{
+	height: 80px;
+    width: 80px;
+    position:absolute;
+    z-index: 1;
+    
+}
+.segment .content{
+	position:absolute;
+	height: 85px;
+	width: 85px;
+	padding:0px;
+	
+}
+.segment .content img{
+	max-width:100%;
+	max-height:100%;
+}
+.dropzone{
+	overflow:hidden;
+}
+.savebtn{
+	float:left;
+	margin-top:5px;
+	margin-left:10px;
+	display:none;
+}
+.previewbtn{
+	float:left;
+	margin-top:5px;
+}
+.savebtn a {
+    background: none repeat scroll 0 0 #333333;
+    color: #FFFFFF;
+  	
+    padding: 5px;
+    text-decoration: none;
+}
+.savebtn a:hover{
+	background:#CC0000;
+}
+.previewbtn a {
+    background: none repeat scroll 0 0 #333333;
+    color: #FFFFFF;
+    padding: 5px;
+    width:100px;
+    
+    text-decoration: none;
+}
+.previewbtn a:hover{
+	background:#CC0000;
+}
+.item_container{
+	background-color:white;border:1px solid #333;float:left;width:280px;height:450px;overflow-y:scroll;
+}
+.ecard_preview{
+	width:600px;
+	height:340px;
+	margin:10px;
+	background-color : #cccccc;
+	border: solid 1px #333333;
+	float:left;
+}
+.player img{
+	max-width:100%;
+	max-height:100%;
+}
+.player{
+	width:580px;
+	height:300px;
+	border:solid 1px #333;
+}
+.sendform{
+	width:100%;
+	float:left;
+	border:solid 1px #333;
+	margin-top:10px;
+}
+.tab a{
+	background: none repeat scroll 0 0 #333333;
+    color: #FFFFFF;
+    padding: 5px;
+    width:100px;
+    text-decoration: none;
+}
+.tab a:hover{
+	background:#CC0000;
+}
+.btn a{
+	background: none repeat scroll 0 0 #333333;
+    color: #FFFFFF;
+    padding: 5px;
+    width:100px;
+    text-decoration: none;
+}
+.btn a:hover{
+	background:#CC0000;
+}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/Case/Network/Email
+END
+CakeEmailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/Case/Network/Email/CakeEmailTest.php
+END
+SmtpTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/Case/Network/Email/SmtpTransportTest.php
+END
+DebugTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Test/Case/Network/Email/DebugTransportTest.php
+END

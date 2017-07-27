@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Posts
+END
+read.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Posts/read.ctp
+END
+adm_create.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Posts/adm_create.ctp
+END
+adm_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Posts/adm_edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Posts/index.ctp
+END
+adm_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Posts/adm_index.ctp
+END

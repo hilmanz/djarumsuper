@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img
+END
+test-error-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img/test-error-icon.png
+END
+test-fail-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img/test-fail-icon.png
+END
+cake.power.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif
+END
+test-pass-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img/test-pass-icon.png
+END
+test-skip-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img/test-skip-icon.png
+END
+cake.icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Console/Templates/skel/webroot/img/cake.icon.png
+END

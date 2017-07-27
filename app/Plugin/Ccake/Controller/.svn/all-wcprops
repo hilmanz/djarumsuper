@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller
+END
+CcakeController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/CcakeController.php
+END
+CcakeAppController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/CcakeAppController.php
+END
+BannersController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/BannersController.php
+END
+PostsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/PostsController.php
+END
+ContentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/ContentController.php
+END
+LayoutsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/LayoutsController.php
+END
+MenuController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/Controller/MenuController.php
+END

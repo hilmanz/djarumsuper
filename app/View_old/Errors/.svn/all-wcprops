@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Errors
+END
+error400.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Errors/error400.ctp
+END
+error500.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/djarum-super/!svn/ver/101/trunk/web/app/View_old/Errors/error500.ctp
+END

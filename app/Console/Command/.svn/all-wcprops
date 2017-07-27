@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/djarum-super/!svn/ver/257/trunk/web/app/Console/Command
+END
+ResizeImageShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/djarum-super/!svn/ver/139/trunk/web/app/Console/Command/ResizeImageShell.php
+END
+MigrateImageShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/djarum-super/!svn/ver/27/trunk/web/app/Console/Command/MigrateImageShell.php
+END
+EmailBlastShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/djarum-super/!svn/ver/257/trunk/web/app/Console/Command/EmailBlastShell.php
+END
+AppShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/djarum-super/!svn/ver/2/trunk/web/app/Console/Command/AppShell.php
+END

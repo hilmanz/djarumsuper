@@ -1,0 +1,131 @@
+/**
+CcakeFileManager.css
+**/
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.fm-folder-content{
+	height:50px;
+	margin-top:3px;
+}
+.fm-sidebar{
+	background-color:#ecf0f1;
+	height:450px;
+	color:#fff;
+	padding:10px;
+	overflow:auto;
+}
+.fm-header{
+	background-color:#3498db;
+	padding: 0px 0px 0px 10px;
+	color:white;
+}
+
+.fm-folders {
+    background-color: #2ecc71;
+    padding: 10px;
+    margin: 3px 0 0 0
+}
+.fm-content {
+    margin: 0 0 0 -10px;
+    height: 460px;
+    padding: 10px 0 0;
+}
+.fm-files {
+    background-color: #BDC3C7;
+    float: left;
+    margin: 3px 0 0 3px;
+    min-height: 58px;
+    padding: 10px;
+}
+.fm-folders a{
+	color:#fff;
+	text-decoration: none;
+}
+
+
+.fm-folders h5{
+	font-size:22px;
+}
+.fm-folders p{
+	font-size:16px;
+}
+.fm-scroll{
+	overflow:auto;
+}
+.fr-button{
+	margin-left:18px;
+}
+.p-btn1{
+	padding: 7px 10px 0px 0px;
+	margin:0;
+
+}
+.hr-folder-content{
+	margin: 0;
+}
+.fm-addFolder{
+	background-color:#16a085;
+	margin-top : 4px;
+	color:#fff;
+	padding:10px;
+	overflow:auto;
+}
+
+
+.fm-folders-over{
+	color:#333;
+	background-color:#f39c12;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.thumb img{
+	height:100px;
+}
+
+.fm-plugin-head{
+	background-color:#3498db;
+}
+.fm-margin-0{
+	margin:0;
+}
+.fm-plugin-title{
+	float:left;
+	margin: 10px 10px 0px 10px;
+}
+
+.fm-files-over{
+	color:#fff;
+	background-color:#f39c12;
+	cursor: pointer;
+	cursor: hand;
+}
+.fm-files-selected{
+	color:#fff;
+	background-color:#f39c12;
+	cursor: pointer;
+	cursor: hand;
+}
+.fm-files-over a:hover{
+	color:#fff;
+	
+}
+
+#fmModal{
+	width:500px;
+}
+
+.input-icon{
+	float:right;
+	margin: -10px 0px 0px 0px;
+}
+.flag {
+    float: right;
+    height: 22px;
+    margin: 8px 0 0 5px;
+    position: absolute;
+}

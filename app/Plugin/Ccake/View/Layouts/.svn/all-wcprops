@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Layouts
+END
+response.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Layouts/response.ctp
+END
+adm_create.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Layouts/adm_create.ctp
+END
+adm_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Layouts/adm_edit.ctp
+END
+adm_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/djarum-super/!svn/ver/292/trunk/web/app/Plugin/Ccake/View/Layouts/adm_index.ctp
+END

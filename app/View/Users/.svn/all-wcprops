@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/djarum-super/!svn/ver/228/trunk/web/app/View/Users
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/228/trunk/web/app/View/Users/admin_edit.ctp
+END
+authenticate.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/djarum-super/!svn/ver/227/trunk/web/app/View/Users/authenticate.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/djarum-super/!svn/ver/3/trunk/web/app/View/Users/admin_index.ctp
+END
+admin_login.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/djarum-super/!svn/ver/3/trunk/web/app/View/Users/admin_login.ctp
+END
+admin_new.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/djarum-super/!svn/ver/228/trunk/web/app/View/Users/admin_new.ctp
+END
+admin_list.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/228/trunk/web/app/View/Users/admin_list.ctp
+END
+admin_remove.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/djarum-super/!svn/ver/228/trunk/web/app/View/Users/admin_remove.ctp
+END
+login.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/djarum-super/!svn/ver/14/trunk/web/app/View/Users/login.ctp
+END

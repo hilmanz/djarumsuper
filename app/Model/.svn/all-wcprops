@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/djarum-super/!svn/ver/295/trunk/web/app/Model
+END
+Point.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/djarum-super/!svn/ver/47/trunk/web/app/Model/Point.php
+END
+ForumAnswers.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/djarum-super/!svn/ver/160/trunk/web/app/Model/ForumAnswers.php
+END
+OtgAnswers.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/djarum-super/!svn/ver/236/trunk/web/app/Model/OtgAnswers.php
+END
+BannerChannel.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/djarum-super/!svn/ver/6/trunk/web/app/Model/BannerChannel.php
+END
+Gallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/djarum-super/!svn/ver/42/trunk/web/app/Model/Gallery.php
+END
+AppModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/djarum-super/!svn/ver/2/trunk/web/app/Model/AppModel.php
+END
+Blast.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/djarum-super/!svn/ver/251/trunk/web/app/Model/Blast.php
+END
+Banner.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/djarum-super/!svn/ver/6/trunk/web/app/Model/Banner.php
+END
+ForumAnswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/djarum-super/!svn/ver/160/trunk/web/app/Model/ForumAnswer.php
+END
+Channel.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/djarum-super/!svn/ver/5/trunk/web/app/Model/Channel.php
+END
+OtgAnswer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/djarum-super/!svn/ver/236/trunk/web/app/Model/OtgAnswer.php
+END
+UserPointHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/38/trunk/web/app/Model/UserPointHistory.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/djarum-super/!svn/ver/58/trunk/web/app/Model/Category.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/djarum-super/!svn/ver/226/trunk/web/app/Model/User.php
+END
+Trip.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/djarum-super/!svn/ver/295/trunk/web/app/Model/Trip.php
+END
+ArticleCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/djarum-super/!svn/ver/210/trunk/web/app/Model/ArticleCategory.php
+END
+Subscribe.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/djarum-super/!svn/ver/250/trunk/web/app/Model/Subscribe.php
+END
+ArticleAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/djarum-super/!svn/ver/6/trunk/web/app/Model/ArticleAsset.php
+END
+Article.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/djarum-super/!svn/ver/292/trunk/web/app/Model/Article.php
+END
+Province.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/djarum-super/!svn/ver/42/trunk/web/app/Model/Province.php
+END
+UserPoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/djarum-super/!svn/ver/226/trunk/web/app/Model/UserPoint.php
+END

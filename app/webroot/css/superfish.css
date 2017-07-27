@@ -1,0 +1,205 @@
+
+#navBar{
+	background:url(../img/new/bg_nav.jpg) no-repeat;
+	height:43px;
+	position:relative;
+	z-index:10000;
+}
+#navBar ul{
+	margin:0;
+	padding:6px 35px;
+}
+#navBar ul ul{
+	transform: skewx(0deg);
+	padding:0;
+}
+#navBar li li{
+	border:none;
+}
+/*** ESSENTIAL STYLES ***/
+
+.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.sf-menu li {
+	position: relative;
+}
+.sf-menu ul {
+	position: absolute;
+	display: none;
+	top: 100%;
+	left: 0;
+	z-index: 99;
+}
+.sf-menu > li {
+	float: left;
+}
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+	display: block;
+}
+
+.sf-menu a {
+	display: block;
+	position: relative;
+}
+.sf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+
+.sf-menu, .sf-menu * {
+	margin:			0;
+	padding:		0;
+	list-style:		none;
+}
+.sf-menu {
+	line-height:	1.0;
+}
+.sf-menu ul {
+	position:		absolute;
+	top:			30px;
+	width:			230px; /* left offset of submenus need to match (see below) */
+	transform: skewx(20deg);
+	margin:0;
+	padding:0;
+}
+.sf-menu ul li {
+	width:			100%;
+	background:#333;
+}
+.sf-menu li:hover {
+	visibility:		inherit; /* fixes IE7 'sticky bug' */
+}
+.sf-menu li:hover li a{
+}
+.sf-menu li {
+	float:			left;
+	position:		relative;
+	transform: skewx(-20deg);
+	transition: background .2s ease, color .2s ease;
+	border-right:solid 1px #be0505;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+.sf-menu li li{
+	transform: skewx(0deg);
+	box-shadow:0 0 20px rgba(0,0,0,0.7) inset;
+}
+.sf-menu li ul{
+	transform: skewx(0deg);
+}
+.sf-menu li ul li:hover{
+	transform: skewx(-10deg);
+}
+.sf-menu li ul li:hover a{
+	transform: skewx(20deg);
+	transition: background .2s ease, color .2s ease;
+}
+.sf-menu a {
+	display:		block;
+	position:		relative;
+	transform: skewx(20deg);
+	transition: background .2s ease, color .2s ease;
+}
+.sf-menu li span span{
+	display:none;
+}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	left:			0;
+	top:			30px; /* match top ul list item height */
+	z-index:		9999;
+	margin:0 0 0 -105px;
+	transform: skewx(-20deg);
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	top:			-999em;
+}
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:			100%; /* match ul width */
+	top:			0;
+	margin:0 0 0 1px;
+}
+ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li ul {
+	top:			-999em;
+}
+ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover ul {
+	left:			10em; /* match ul width */
+	top:			0;
+}
+
+/*** DEMO SKIN ***/
+.sf-menu {
+	float:			left;
+	margin-bottom:	1em;
+}
+.sf-menu a:hover,.sf-menu a.current{
+}
+.sf-menu a { /* visited pseudo selector so IE6 applies text colour*/
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	text-align:center;
+	line-height:20px;
+	font-size:13px;
+	padding:5px 20px;
+}
+.sf-menu ul li a{
+	color:#fff;
+	width:auto;
+	font-size:12px;
+	display:block;
+	background:none;
+	text-align:left;
+	line-height:24px;
+	margin:0 0 1px 0;
+}
+.sf-menu ul li a:hover{
+}
+.sf-menu li:focus, .sf-menu li:hover, .sf-menu li:active,.sf-menu li.active,.sf-menu ul li:hover{
+	color:#fff;
+	background: rgb(94,0,0); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(94,0,0,1) 0%, rgba(241,1,1,1) 50%, rgba(157,1,1,1) 51%, rgba(93,0,0,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(94,0,0,1)), color-stop(50%,rgba(241,1,1,1)), color-stop(51%,rgba(157,1,1,1)), color-stop(100%,rgba(93,0,0,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(94,0,0,1) 0%,rgba(241,1,1,1) 50%,rgba(157,1,1,1) 51%,rgba(93,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(94,0,0,1) 0%,rgba(241,1,1,1) 50%,rgba(157,1,1,1) 51%,rgba(93,0,0,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, rgba(94,0,0,1) 0%,rgba(241,1,1,1) 50%,rgba(157,1,1,1) 51%,rgba(93,0,0,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom, rgba(94,0,0,1) 0%,rgba(241,1,1,1) 50%,rgba(157,1,1,1) 51%,rgba(93,0,0,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e0000', endColorstr='#5d0000',GradientType=0 ); /* IE6-9 */
+	outline:0;
+	box-shadow:0 0 20px rgba(0,0,0,0.7) inset;
+}
+.sf-menu .active a{
+	color:#fff;
+	text-transform:uppercase;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+	padding:5px 20px;
+}
+/*** arrows **/
+.sf-sub-indicator {
+	position:		absolute;
+	display:		block;
+	right:			.75em;
+	top:			1.05em; /* IE6 only */
+	width:			10px;
+	height:			10px;
+	text-indent: 	-999em;
+	overflow:		hidden;
+}
+
+/*** shadows for all but IE6 ***/
+.sf-shadow ul.sf-shadow-off {
+	background: transparent;
+}

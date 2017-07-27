@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Core
+END
+App.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Core/App.php
+END
+Configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Core/Configure.php
+END
+CakePlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Core/CakePlugin.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/djarum-super/!svn/ver/2/trunk/web/lib/Cake/Core/Object.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/djarum-super/!svn/ver/295/trunk/web/app/Config
+END
+email.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/djarum-super/!svn/ver/2/trunk/web/app/Config/email.php.default
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/djarum-super/!svn/ver/2/trunk/web/app/Config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/djarum-super/!svn/ver/295/trunk/web/app/Config/bootstrap.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/djarum-super/!svn/ver/2/trunk/web/app/Config/acl.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/djarum-super/!svn/ver/266/trunk/web/app/Config/routes.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/djarum-super/!svn/ver/72/trunk/web/app/Config/database.php
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/djarum-super/!svn/ver/287/trunk/web/app/Config/email.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/djarum-super/!svn/ver/295/trunk/web/app/Config/core.php
+END
